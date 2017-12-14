@@ -1,0 +1,166 @@
+@media screen and (max-width: 480px){
+	#wrapp{
+		width: 100%;
+		height: 100%;
+	}
+	.header{
+		width: 100%;
+		height: 500px;
+		background-image: url('mobile.jpg');
+	}
+	.victor{
+		display: none;
+	}
+	.logobar img{
+		margin-left: 10px;
+	}
+	.dropdown{
+		margin-right: 20px;
+	}
+	.header hr{
+		display: none;
+	}
+	.htext{
+		top: 140px;
+		width: 90%;
+		height: 70px;
+		left: 5%;
+		line-height: 40px;
+		font-size: 47px;
+	}
+	.text{
+		display: none;
+	}
+	.mobiletext{
+		display: block;
+		width: 80%;
+		top: 320px;
+		left: 10%;
+		font-size: 20px;
+		letter-spacing: 2px;
+	}
+	.dropmenu{
+		height: 430px;
+	}
+	.follow p{
+		margin: 120px 10px;
+		width: 40%;
+	}
+	.menupng{
+		margin: 110px 10px;
+	}
+	.boxes{
+		height: 1140px;
+		width: 100%;
+	}
+	.box{
+		width: 100%;
+		height: 380px;
+	}
+	.box img{
+		height: 49px;
+	}
+	.p1{
+		margin-top: 50px;
+	}
+	.p2{
+		font-size: 32px;
+		width: 60%;
+		margin-left: 20%;
+	}
+	.hr{
+		width: 15%;
+		margin-left: 42.5%;
+	}
+	.apply, .applydark{
+		display: none;
+	}
+	.p4, .p5{
+		width: 90%;
+		margin-left: 10px;
+	}
+	.p4{
+		margin-top: 40px;
+	}
+	.p5{
+		margin-top: 20px;
+	}
+	.skills{
+		width: 61px;
+		margin-left: 0.5px;
+		font-size: 11px;
+	}
+	.htmlskill{
+		margin-left: 10px;
+	}
+	.more{
+		width: 70%;
+		margin: 80px 15%;
+
+	}
+	.digital{
+		height: 610px;
+	}
+	.p3second{
+		margin-left: 10px;
+		width: 96%;
+	}
+	.fb{
+		width: 40%;
+		margin-left: 30%;
+	}
+	.boxdark{
+		width: 100%;
+	}
+	.boxdark .city{
+		font-size: 18px;
+		margin-left: 10px;
+	}
+	.address{
+		margin-left: 10px;
+		font-size: 17px;
+	}
+	.twitter, .in, .web{
+		position: absolute;
+	}
+	.in{
+		float: left;
+		left: -68px;
+		top: 4820px;
+	}
+	.twitter{
+		float: left;
+		left: 50px;
+		top: 4823px;
+	}
+	.web{
+		float: right;
+		right: 5px;
+		top: 4825px;
+	}
+	.copy{
+		width: 90%;
+		margin-left: 10px;
+	}
+	.manager{
+		background-color: #fff;
+		border: 1px solid #fff;
+		height: 270px;
+	}
+	.p4dark, .p5dark{
+		color: #222222;
+	}
+	.skillsdark{
+		color: #c41230;
+	}
+	.skills, .skillsdark{
+		border: none;
+	}
+	.frontend, .designer{
+		background-color: #eeeeee;
+		height: 270px;
+	}
+	.work{
+		height: 530px;
+	}
+}
